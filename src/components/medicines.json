@@ -1,0 +1,38 @@
+[
+  {
+    "index": "1",
+    "name": "Paracetamol (acetaminophen)",
+    "info": "Paracetamol (acetaminophen[a] or para-hydroxyacetanilide) is a non-opioid analgesic and antipyretic agent used to treat fever and mild to moderate pain.[12][13][14] It is a widely used over the counter medication and common brand names include Tylenol and Panadol.At a standard dose, paracetamol only slightly decreases body temperature;[13][15][16] it is inferior to ibuprofen in that respect,[17] and the benefits of its use for fever are unclear.[13][18][19] Paracetamol may relieve pain in acute mild migraine but only slightly in episodic tension headache.[20][21]"
+  },
+  {
+    "index": "2",
+    "name": "Ibuprofen",
+    "info": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) that is used to relieve pain, fever, and inflammation.[7] This includes painful menstrual periods, migraines, and rheumatoid arthritis.[7] It may also be used to close a patent ductus arteriosus in a premature baby.[7] It can be used orally (by mouth) or intravenously.[7] It typically begins working within an hour.[7]Common side effects include heartburn and a rash.[7] Compared to other NSAIDs, it may have other side effects such as gastrointestinal bleeding.[8] It increases the risk of heart failure, kidney failure, and liver failure.[7] At low doses, it does not appear to increase the risk of heart attack; however, at higher doses it may.[8]"
+  },
+  { "index": "3", "name": "Asprin", "info": "" },
+  { "index": "4", "name": "Amoxicillin" },
+  { "index": "5", "name": "Ciprofloxacin" },
+  { "index": "6", "name": "Azithromycin" },
+  { "index": "7", "name": "Pantoprazole" },
+  { "index": "8", "name": "Ranitidine" },
+  { "index": "9", "name": "Omeprazole" },
+  { "index": "10", "name": "Cetirizine" },
+  { "index": "11", "name": "Loratadine" },
+  { "index": "12", "name": "Diclofenac" },
+  { "index": "13", "name": "Naproxen" },
+  { "index": "14", "name": "Loperamide" },
+  { "index": "15", "name": "Metformin" },
+  { "index": "16", "name": "Glimepiride" },
+  { "index": "17", "name": "Insulin" },
+  { "index": "18", "name": "Amlodipine" },
+  { "index": "19", "name": "Losartan" },
+  { "index": "20", "name": "Ramipril" },
+  { "index": "21", "name": "Atorvastatin" },
+  { "index": "22", "name": "Simvastatin" },
+  { "index": "23", "name": "Sertraline" },
+  { "index": "24", "name": "Fluoxetine" },
+  { "index": "25", "name": "Amitriptyline" },
+  { "index": "26", "name": "Ondansetron" },
+  { "index": "27", "name": "Domperidone" },
+  { "index": "28", "name": "Chloroquine" }
+]
