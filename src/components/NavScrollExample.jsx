@@ -27,7 +27,6 @@ function NavScrollExample() {
   const showLocation = () => {
     setLocation("Nerul, 400706");
   };
-
   return (
     <>
       <Navbar expand="lg" className="bg-body-tertiary">
@@ -142,9 +141,11 @@ function NavScrollExample() {
                 <Card.Body>
                   <Card.Title>{val.name}</Card.Title>
                   <Card.Text>{val.info}</Card.Text>
+                  <a href={val.link}>
                   <Button href="" variant="primary">
                     Go somewhere
                   </Button>
+                    </a>
                 </Card.Body>
               </Card>
             );
