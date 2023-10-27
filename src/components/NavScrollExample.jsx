@@ -141,11 +141,11 @@ function NavScrollExample() {
                 <Card.Body>
                   <Card.Title>{val.name}</Card.Title>
                   <Card.Text>{val.info}</Card.Text>
-                  <a href={val.link}>
+                 <Link to={val.info}>
                   <Button href="" variant="primary">
                     Go somewhere
                   </Button>
-                    </a>
+                  </Link>
                 </Card.Body>
               </Card>
             );
