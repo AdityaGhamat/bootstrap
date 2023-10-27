@@ -10,121 +10,141 @@
     "index": "2",
     "name": "Ibuprofen",
     "info": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain, reduce inflammation, and lower fever. It works by inhibiting enzymes that produce pain and inflammation, but it may have gastrointestinal side effects and should be used as directed.",
-    "image": "https://t4.ftcdn.net/jpg/03/20/34/03/360_F_320340368_3S52L7ICrOQTWmbaTbPtxzwtgJXttUrm.jpg"
+    "image": "https://t4.ftcdn.net/jpg/03/20/34/03/360_F_320340368_3S52L7ICrOQTWmbaTbPtxzwtgJXttUrm.jpg",
+    "link":"https://en.wikipedia.org/wiki/Ibuprofen"
   },
   {
     "index": "3",
     "name": "Asprin",
     "info": "  Aspirin is a widely used over-the-counter medication known for its pain-relieving and anti-inflammatory properties. It's commonly used to alleviate pain, reduce fever, and as a preventive measure against heart-related conditions due to its blood-thinning effects.",
-    "image": "https://c8.alamy.com/comp/B8A7K7/bayer-aspirin-tablets-B8A7K7.jpg"
+    "image": "https://c8.alamy.com/comp/B8A7K7/bayer-aspirin-tablets-B8A7K7.jpg",
+    "link":"https://en.wikipedia.org/wiki/Aspirin"
   },
   {
     "index": "4",
     "name": "Amoxicillin",
     "info": "Amoxicillin is an antibiotic used to treat a wide range of bacterial infections. It belongs to the penicillin class of drugs and is effective in combating various bacterial illnesses, such as respiratory, urinary tract, and skin infections.",
-    "image": "https://www.poison.org/-/media/images/shared/articles/amoxicillin.jpg"
+    "image": "https://www.poison.org/-/media/images/shared/articles/amoxicillin.jpg",
+    "link":"https://en.wikipedia.org/wiki/Amoxicillin"
   },
   {
     "index": "5",
     "name": "Ciprofloxacin",
     "info": "Ciprofloxacin is a potent antibiotic used to treat a variety of bacterial infections, including urinary tract, respiratory, and skin infections. It's part of the fluoroquinolone class and works by inhibiting bacterial DNA replication.",
-    "image": "https://c8.alamy.com/comp/MC23R0/ciprofloxacin-antibiotic-tablets-MC23R0.jpg"
+    "image": "https://c8.alamy.com/comp/MC23R0/ciprofloxacin-antibiotic-tablets-MC23R0.jpg",
+    "link":"https://en.wikipedia.org/wiki/Ciprofloxacin"
   },
   {
     "index": "6",
     "name": "Azithromycin",
     "info": "Azithromycin is an antibiotic used to treat a range of bacterial infections. It's effective against respiratory, skin, and ear infections, among others. Azithromycin is known for its convenience, often requiring a short treatment duration.",
-    "image": "https://c8.alamy.com/comp/2BA97C6/azithromycin-250mg-film-coated-tablets-macrolides-antibiotics-photo-only-no-product-sent-uk-2BA97C6.jpg"
+    "image": "https://c8.alamy.com/comp/2BA97C6/azithromycin-250mg-film-coated-tablets-macrolides-antibiotics-photo-only-no-product-sent-uk-2BA97C6.jpg",
+    "link":"https://en.wikipedia.org/wiki/Azithromycin"
   },
   {
     "index": "7",
     "name": "Pantoprazole",
     "info": "Pantoprazole is a medication that reduces stomach acid production and is used to treat conditions like acid reflux, ulcers, and GERD. It provides relief from heartburn and promotes healing of the esophagus.",
-    "image": "https://c8.alamy.com/comp/2K6MWYA/pantoprazole-pill-bottle-conceptual-image-2K6MWYA.jpg3"
+    "image": "https://c8.alamy.com/comp/2K6MWYA/pantoprazole-pill-bottle-conceptual-image-2K6MWYA.jpg3",
+    "link":"https://en.wikipedia.org/wiki/Pantoprazole"
   },
   {
     "index": "8",
     "name": "Omeprazole",
     "info": "Omeprazole is a proton pump inhibitor (PPI) that reduces stomach acid production. It's commonly prescribed to treat acid-related conditions like gastroesophageal reflux disease (GERD) and gastric ulcers, providing relief from heartburn and promoting healing of the esophagus.",
-    "image": "https://media.istockphoto.com/id/1223269269/photo/generic-omeprazole-pills.jpg?s=612x612&w=0&k=20&c=G-jtdZDdbtKQ-nbt_dUZ0JqjUbzUiVyJ_GitrngadPI="
+    "image": "https://media.istockphoto.com/id/1223269269/photo/generic-omeprazole-pills.jpg?s=612x612&w=0&k=20&c=G-jtdZDdbtKQ-nbt_dUZ0JqjUbzUiVyJ_GitrngadPI=",
+    "link":"https://en.wikipedia.org/wiki/Omeprazole"
   },
   {
     "index": "9",
     "name": "Cetirizine",
     "info": "Cetirizine is an antihistamine used to relieve allergy symptoms such as sneezing, runny nose, itching, and watery eyes. It is effective in managing hay fever (allergic rhinitis) and other allergic reactions, offering non-drowsy relief.",
-    "image": "https://c8.alamy.com/comp/H2NNCR/stock-photo-of-a-box-of-cetirizine-hydrochoride-antihistamine-tablets-H2NNCR.jpg"
+    "image": "https://c8.alamy.com/comp/H2NNCR/stock-photo-of-a-box-of-cetirizine-hydrochoride-antihistamine-tablets-H2NNCR.jpg",
+    "link":"https://en.wikipedia.org/wiki/Cetirizine"
   },
   {
     "index": "10",
     "name": "Loratadine",
     "info": "Loratadine is a non-drowsy antihistamine that alleviates allergy symptoms like runny nose, sneezing, and itchy or watery eyes. It is commonly used to treat hay fever and allergic reactions by blocking histamine effects.",
-    "image": "https://5.imimg.com/data5/SELLER/Default/2023/8/332709645/ER/VU/LD/6299000/loratadine-10-mg-tablets-500x500.jpeg"
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/8/332709645/ER/VU/LD/6299000/loratadine-10-mg-tablets-500x500.jpeg",
+    "link":"https://en.wikipedia.org/wiki/Loratadine"
   },
   {
     "index": "11",
     "name": "Diclofenac",
     "info": "Diclofenac is a nonsteroidal anti-inflammatory drug (NSAID) that provides pain relief and reduces inflammation. It's prescribed to manage conditions like arthritis and soft tissue injuries, offering relief from pain and swelling.",
-    "image": "https://c8.alamy.com/comp/D8J7BD/diclofenac-sodium-tablets-please-note-this-is-an-image-licensing-site-D8J7BD.jpg"
+    "image": "https://c8.alamy.com/comp/D8J7BD/diclofenac-sodium-tablets-please-note-this-is-an-image-licensing-site-D8J7BD.jpg",
+    "link":"https://en.wikipedia.org/wiki/Diclofenac"
   },
   {
     "index": "12",
     "name": "Naproxen",
     "info": "Naproxen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation in conditions such as arthritis, menstrual cramps, and other musculoskeletal disorders. It helps alleviate pain and swelling.",
-    "image": "https://t4.ftcdn.net/jpg/05/60/87/09/360_F_560870983_YAALv5qcvbopH9v4iuhnUeGasksu1L9o.jpg"
+    "image": "https://t4.ftcdn.net/jpg/05/60/87/09/360_F_560870983_YAALv5qcvbopH9v4iuhnUeGasksu1L9o.jpg",
+    "link":"https://en.wikipedia.org/wiki/Naproxen"
   },
   {
     "index": "13",
     "name": "Loperamide",
     "info": "Loperamide is an antidiarrheal medication used to treat acute and chronic diarrhea. It slows down the movement of the intestines, reducing bowel movements and fluid loss, providing relief from diarrhea symptoms.",
-    "image": "https://c8.alamy.com/comp/E3KRMA/carton-of-30-2mg-loperamide-hydrochloride-capsules-E3KRMA.jpg"
+    "image": "https://c8.alamy.com/comp/E3KRMA/carton-of-30-2mg-loperamide-hydrochloride-capsules-E3KRMA.jpg",
+    "link":"https://en.wikipedia.org/wiki/Loperamide"
   },
   {
     "index": "14",
     "name": "Metformin",
     "info": "Metformin is an oral medication for managing type 2 diabetes by lowering blood sugar levels. It improves insulin sensitivity, reduces glucose production in the liver, and enhances the body's utilization of glucose, helping control diabetes.",
-    "image": "https://cdn.mos.cms.futurecdn.net/Njm9e5KQezGBFwYRjaTkbC.jpg"
+    "image": "https://cdn.mos.cms.futurecdn.net/Njm9e5KQezGBFwYRjaTkbC.jpg",
+    "link":"https://en.wikipedia.org/wiki/Metformin"
   },
   {
     "index": "15",
     "name": "Glimepiride",
     "info": "Glimepiride is an oral medication used to lower blood sugar levels in individuals with type 2 diabetes. It stimulates the release of insulin from the pancreas, helping to manage diabetes by regulating blood glucose levels.",
-    "image": "https://5.imimg.com/data5/SELLER/Default/2021/2/KR/VG/LR/2909237/glimics-m1-500x500.jpeg"
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/2/KR/VG/LR/2909237/glimics-m1-500x500.jpeg",
+    "link":"https://en.wikipedia.org/wiki/Glimepiride"
   },
   {
     "index": "16",
     "name": "Insulin",
     "info": "Insulin is a hormone produced by the pancreas that regulates blood sugar levels. It allows cells to absorb glucose from the bloodstream for energy. Insulin therapy is used to manage diabetes when the body's natural insulin production is insufficient.",
-    "image": "https://www.narayanahealth.org/blog/wp-content/uploads/2019/11/shutterstock_793559362.jpg"
+    "image": "https://www.narayanahealth.org/blog/wp-content/uploads/2019/11/shutterstock_793559362.jpg",
+    "link":"https://en.wikipedia.org/wiki/Insulin_(medication)"
   },
   {
     "index": "17",
     "name": "Amlodipine",
     "info": "Amlodipine is a calcium channel blocker prescribed to treat high blood pressure and chest pain (angina). It relaxes blood vessels, reducing strain on the heart and improving blood flow, effectively lowering blood pressure and alleviating anginal symptoms.",
-    "image": "https://t3.ftcdn.net/jpg/05/66/55/60/360_F_566556058_KbMTAqbu9rzflgQNV7C54oyh0IV4dPze.jpg"
+    "image": "https://t3.ftcdn.net/jpg/05/66/55/60/360_F_566556058_KbMTAqbu9rzflgQNV7C54oyh0IV4dPze.jpg",
+    "link":"https://en.wikipedia.org/wiki/Amlodipine"
   },
   {
     "index": "18",
     "name": "Losartan",
     "info": "Losartan is an angiotensin II receptor blocker (ARB) used to lower blood pressure. It relaxes blood vessels, reducing hypertension and lowering the risk of cardiovascular events. Losartan is prescribed for managing high blood pressure and protecting the heart and blood vessels.",
-    "image": "https://c8.alamy.com/comp/DF5H7E/losartan-potassium-tablets-used-for-lowering-high-blood-pressure-DF5H7E.jpg"
+    "image": "https://c8.alamy.com/comp/DF5H7E/losartan-potassium-tablets-used-for-lowering-high-blood-pressure-DF5H7E.jpg",
+    "link":"https://en.wikipedia.org/wiki/Losartan"
   },
   {
     "index": "19",
     "name": "Ramipril",
     "info": "Ramipril is an angiotensin-converting enzyme (ACE) inhibitor used to treat high blood pressure and heart failure. It relaxes blood vessels, reducing blood pressure, and improves heart function. Ramipril helps prevent heart attacks, strokes, and other cardiovascular complications.",
-    "image": "https://c8.alamy.com/comp/2J2EY5A/box-of-28-125-ramipril-capsules-2J2EY5A.jpg"
+    "image": "https://c8.alamy.com/comp/2J2EY5A/box-of-28-125-ramipril-capsules-2J2EY5A.jpg",
+    "link":"https://en.wikipedia.org/wiki/Ramipril"
   },
   {
     "index": "20",
     "name": "Atorvastatin",
     "info": "Atorvastatin is a statin medication that lowers cholesterol levels by inhibiting the body's cholesterol production. It is prescribed to reduce the risk of heart disease and stroke by managing high levels of LDL cholesterol and increasing levels of HDL cholesterol.",
-    "image": "https://c8.alamy.com/comp/DF9JF3/atorvastatin-tablets-DF9JF3.jpg"
+    "image": "https://c8.alamy.com/comp/DF9JF3/atorvastatin-tablets-DF9JF3.jpg",
+    "link":"https://en.wikipedia.org/wiki/Atorvastatin"
   },
   {
     "index": "21",
     "name": "Simvastatin",
     "info": "Simvastatin is a statin medication used to lower cholesterol levels by inhibiting the body's cholesterol production. It helps reduce the risk of heart disease and stroke by managing high levels of LDL cholesterol and increasing levels of HDL cholesterol.",
-    "image": "https://c8.alamy.com/comp/E6N1TA/crescent-pharma-limited-simvastatin-40-mg-tablets-in-a-foil-blister-E6N1TA.jpg"
+    "image": "https://c8.alamy.com/comp/E6N1TA/crescent-pharma-limited-simvastatin-40-mg-tablets-in-a-foil-blister-E6N1TA.jpg",
+    "link":"https://en.wikipedia.org/wiki/Simvastatin"
   },
   {
     "index": "22",
