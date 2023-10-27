@@ -2,37 +2,157 @@
   {
     "index": "1",
     "name": "Paracetamol (acetaminophen)",
-    "info": "Paracetamol (acetaminophen[a] or para-hydroxyacetanilide) is a non-opioid analgesic and antipyretic agent used to treat fever and mild to moderate pain.[12][13][14] It is a widely used over the counter medication and common brand names include Tylenol and Panadol.At a standard dose, paracetamol only slightly decreases body temperature;[13][15][16] it is inferior to ibuprofen in that respect,[17] and the benefits of its use for fever are unclear.[13][18][19] Paracetamol may relieve pain in acute mild migraine but only slightly in episodic tension headache.[20][21]"
+    "info": "Paracetamol, also known as acetaminophen, is a widely used over-the-counter pain reliever and fever reducer. It works by reducing pain signals in the brain and lowering fever, but it has a limited anti-inflammatory effect and should be used as directed to avoid potential liver damage.",
+    "image": "https://c8.alamy.com/comp/EBY4RR/pack-of-tesco-paracetamol-500mg-tablets-isolated-on-white-background-EBY4RR.jpg"
   },
   {
     "index": "2",
     "name": "Ibuprofen",
-    "info": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) that is used to relieve pain, fever, and inflammation.[7] This includes painful menstrual periods, migraines, and rheumatoid arthritis.[7] It may also be used to close a patent ductus arteriosus in a premature baby.[7] It can be used orally (by mouth) or intravenously.[7] It typically begins working within an hour.[7]Common side effects include heartburn and a rash.[7] Compared to other NSAIDs, it may have other side effects such as gastrointestinal bleeding.[8] It increases the risk of heart failure, kidney failure, and liver failure.[7] At low doses, it does not appear to increase the risk of heart attack; however, at higher doses it may.[8]"
+    "info": "Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain, reduce inflammation, and lower fever. It works by inhibiting enzymes that produce pain and inflammation, but it may have gastrointestinal side effects and should be used as directed.",
+    "image": "https://t4.ftcdn.net/jpg/03/20/34/03/360_F_320340368_3S52L7ICrOQTWmbaTbPtxzwtgJXttUrm.jpg"
   },
-  { "index": "3", "name": "Asprin", "info": "" },
-  { "index": "4", "name": "Amoxicillin" },
-  { "index": "5", "name": "Ciprofloxacin" },
-  { "index": "6", "name": "Azithromycin" },
-  { "index": "7", "name": "Pantoprazole" },
-  { "index": "8", "name": "Ranitidine" },
-  { "index": "9", "name": "Omeprazole" },
-  { "index": "10", "name": "Cetirizine" },
-  { "index": "11", "name": "Loratadine" },
-  { "index": "12", "name": "Diclofenac" },
-  { "index": "13", "name": "Naproxen" },
-  { "index": "14", "name": "Loperamide" },
-  { "index": "15", "name": "Metformin" },
-  { "index": "16", "name": "Glimepiride" },
-  { "index": "17", "name": "Insulin" },
-  { "index": "18", "name": "Amlodipine" },
-  { "index": "19", "name": "Losartan" },
-  { "index": "20", "name": "Ramipril" },
-  { "index": "21", "name": "Atorvastatin" },
-  { "index": "22", "name": "Simvastatin" },
-  { "index": "23", "name": "Sertraline" },
-  { "index": "24", "name": "Fluoxetine" },
-  { "index": "25", "name": "Amitriptyline" },
-  { "index": "26", "name": "Ondansetron" },
-  { "index": "27", "name": "Domperidone" },
-  { "index": "28", "name": "Chloroquine" }
+  {
+    "index": "3",
+    "name": "Asprin",
+    "info": "  Aspirin is a widely used over-the-counter medication known for its pain-relieving and anti-inflammatory properties. It's commonly used to alleviate pain, reduce fever, and as a preventive measure against heart-related conditions due to its blood-thinning effects.",
+    "image": "https://c8.alamy.com/comp/B8A7K7/bayer-aspirin-tablets-B8A7K7.jpg"
+  },
+  {
+    "index": "4",
+    "name": "Amoxicillin",
+    "info": "Amoxicillin is an antibiotic used to treat a wide range of bacterial infections. It belongs to the penicillin class of drugs and is effective in combating various bacterial illnesses, such as respiratory, urinary tract, and skin infections.",
+    "image": "https://www.poison.org/-/media/images/shared/articles/amoxicillin.jpg"
+  },
+  {
+    "index": "5",
+    "name": "Ciprofloxacin",
+    "info": "Ciprofloxacin is a potent antibiotic used to treat a variety of bacterial infections, including urinary tract, respiratory, and skin infections. It's part of the fluoroquinolone class and works by inhibiting bacterial DNA replication.",
+    "image": "https://c8.alamy.com/comp/MC23R0/ciprofloxacin-antibiotic-tablets-MC23R0.jpg"
+  },
+  {
+    "index": "6",
+    "name": "Azithromycin",
+    "info": "Azithromycin is an antibiotic used to treat a range of bacterial infections. It's effective against respiratory, skin, and ear infections, among others. Azithromycin is known for its convenience, often requiring a short treatment duration.",
+    "image": "https://c8.alamy.com/comp/2BA97C6/azithromycin-250mg-film-coated-tablets-macrolides-antibiotics-photo-only-no-product-sent-uk-2BA97C6.jpg"
+  },
+  {
+    "index": "7",
+    "name": "Pantoprazole",
+    "info": "Pantoprazole is a medication that reduces stomach acid production and is used to treat conditions like acid reflux, ulcers, and GERD. It provides relief from heartburn and promotes healing of the esophagus.",
+    "image": "https://c8.alamy.com/comp/2K6MWYA/pantoprazole-pill-bottle-conceptual-image-2K6MWYA.jpg3"
+  },
+  {
+    "index": "8",
+    "name": "Omeprazole",
+    "info": "Omeprazole is a proton pump inhibitor (PPI) that reduces stomach acid production. It's commonly prescribed to treat acid-related conditions like gastroesophageal reflux disease (GERD) and gastric ulcers, providing relief from heartburn and promoting healing of the esophagus.",
+    "image": "https://media.istockphoto.com/id/1223269269/photo/generic-omeprazole-pills.jpg?s=612x612&w=0&k=20&c=G-jtdZDdbtKQ-nbt_dUZ0JqjUbzUiVyJ_GitrngadPI="
+  },
+  {
+    "index": "9",
+    "name": "Cetirizine",
+    "info": "Cetirizine is an antihistamine used to relieve allergy symptoms such as sneezing, runny nose, itching, and watery eyes. It is effective in managing hay fever (allergic rhinitis) and other allergic reactions, offering non-drowsy relief.",
+    "image": "https://c8.alamy.com/comp/H2NNCR/stock-photo-of-a-box-of-cetirizine-hydrochoride-antihistamine-tablets-H2NNCR.jpg"
+  },
+  {
+    "index": "10",
+    "name": "Loratadine",
+    "info": "Loratadine is a non-drowsy antihistamine that alleviates allergy symptoms like runny nose, sneezing, and itchy or watery eyes. It is commonly used to treat hay fever and allergic reactions by blocking histamine effects.",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2023/8/332709645/ER/VU/LD/6299000/loratadine-10-mg-tablets-500x500.jpeg"
+  },
+  {
+    "index": "11",
+    "name": "Diclofenac",
+    "info": "Diclofenac is a nonsteroidal anti-inflammatory drug (NSAID) that provides pain relief and reduces inflammation. It's prescribed to manage conditions like arthritis and soft tissue injuries, offering relief from pain and swelling.",
+    "image": "https://c8.alamy.com/comp/D8J7BD/diclofenac-sodium-tablets-please-note-this-is-an-image-licensing-site-D8J7BD.jpg"
+  },
+  {
+    "index": "12",
+    "name": "Naproxen",
+    "info": "Naproxen is a nonsteroidal anti-inflammatory drug (NSAID) used to relieve pain and reduce inflammation in conditions such as arthritis, menstrual cramps, and other musculoskeletal disorders. It helps alleviate pain and swelling.",
+    "image": "https://t4.ftcdn.net/jpg/05/60/87/09/360_F_560870983_YAALv5qcvbopH9v4iuhnUeGasksu1L9o.jpg"
+  },
+  {
+    "index": "13",
+    "name": "Loperamide",
+    "info": "Loperamide is an antidiarrheal medication used to treat acute and chronic diarrhea. It slows down the movement of the intestines, reducing bowel movements and fluid loss, providing relief from diarrhea symptoms.",
+    "image": "https://c8.alamy.com/comp/E3KRMA/carton-of-30-2mg-loperamide-hydrochloride-capsules-E3KRMA.jpg"
+  },
+  {
+    "index": "14",
+    "name": "Metformin",
+    "info": "Metformin is an oral medication for managing type 2 diabetes by lowering blood sugar levels. It improves insulin sensitivity, reduces glucose production in the liver, and enhances the body's utilization of glucose, helping control diabetes.",
+    "image": "https://cdn.mos.cms.futurecdn.net/Njm9e5KQezGBFwYRjaTkbC.jpg"
+  },
+  {
+    "index": "15",
+    "name": "Glimepiride",
+    "info": "Glimepiride is an oral medication used to lower blood sugar levels in individuals with type 2 diabetes. It stimulates the release of insulin from the pancreas, helping to manage diabetes by regulating blood glucose levels.",
+    "image": "https://5.imimg.com/data5/SELLER/Default/2021/2/KR/VG/LR/2909237/glimics-m1-500x500.jpeg"
+  },
+  {
+    "index": "16",
+    "name": "Insulin",
+    "info": "Insulin is a hormone produced by the pancreas that regulates blood sugar levels. It allows cells to absorb glucose from the bloodstream for energy. Insulin therapy is used to manage diabetes when the body's natural insulin production is insufficient.",
+    "image": "https://www.narayanahealth.org/blog/wp-content/uploads/2019/11/shutterstock_793559362.jpg"
+  },
+  {
+    "index": "17",
+    "name": "Amlodipine",
+    "info": "Amlodipine is a calcium channel blocker prescribed to treat high blood pressure and chest pain (angina). It relaxes blood vessels, reducing strain on the heart and improving blood flow, effectively lowering blood pressure and alleviating anginal symptoms.",
+    "image": "https://t3.ftcdn.net/jpg/05/66/55/60/360_F_566556058_KbMTAqbu9rzflgQNV7C54oyh0IV4dPze.jpg"
+  },
+  {
+    "index": "18",
+    "name": "Losartan",
+    "info": "Losartan is an angiotensin II receptor blocker (ARB) used to lower blood pressure. It relaxes blood vessels, reducing hypertension and lowering the risk of cardiovascular events. Losartan is prescribed for managing high blood pressure and protecting the heart and blood vessels.",
+    "image": "https://c8.alamy.com/comp/DF5H7E/losartan-potassium-tablets-used-for-lowering-high-blood-pressure-DF5H7E.jpg"
+  },
+  {
+    "index": "19",
+    "name": "Ramipril",
+    "info": "Ramipril is an angiotensin-converting enzyme (ACE) inhibitor used to treat high blood pressure and heart failure. It relaxes blood vessels, reducing blood pressure, and improves heart function. Ramipril helps prevent heart attacks, strokes, and other cardiovascular complications.",
+    "image": "https://c8.alamy.com/comp/2J2EY5A/box-of-28-125-ramipril-capsules-2J2EY5A.jpg"
+  },
+  {
+    "index": "20",
+    "name": "Atorvastatin",
+    "info": "Atorvastatin is a statin medication that lowers cholesterol levels by inhibiting the body's cholesterol production. It is prescribed to reduce the risk of heart disease and stroke by managing high levels of LDL cholesterol and increasing levels of HDL cholesterol.",
+    "image": "https://c8.alamy.com/comp/DF9JF3/atorvastatin-tablets-DF9JF3.jpg"
+  },
+  {
+    "index": "21",
+    "name": "Simvastatin",
+    "info": "Simvastatin is a statin medication used to lower cholesterol levels by inhibiting the body's cholesterol production. It helps reduce the risk of heart disease and stroke by managing high levels of LDL cholesterol and increasing levels of HDL cholesterol.",
+    "image": "https://c8.alamy.com/comp/E6N1TA/crescent-pharma-limited-simvastatin-40-mg-tablets-in-a-foil-blister-E6N1TA.jpg"
+  },
+  {
+    "index": "22",
+    "name": "Sertraline",
+    "info": "Sertraline is a selective serotonin reuptake inhibitor (SSRI) antidepressant that helps balance neurotransmitters in the brain. It is prescribed to treat mood disorders such as depression, anxiety, and obsessive-compulsive disorder, providing relief from symptoms and improving mental well-being.",
+    "image": "https://i0.wp.com/cdn-prod.medicalnewstoday.com/content/images/articles/325/325632/a-packet-of-sertraline-lying-on-a-table-image-credit-https-commons-wikimedia-org-wiki-file-zoloft-50-mg-cn-jpg-2012.jpg?w=1155&h=1734"
+  },
+  {
+    "index": "23",
+    "name": "Fluoxetine",
+    "info": "Fluoxetine, an antidepressant and selective serotonin reuptake inhibitor (SSRI), is prescribed for mood disorders like depression, obsessive-compulsive disorder, and bulimia. It balances serotonin levels in the brain, improving mood and alleviating symptoms.",
+    "image": "https://c8.alamy.com/comp/F2WRYN/fluoxetine-hydrochloride-prozac-20mg-capsules-anti-depressant-F2WRYN.jpg"
+  },
+  {
+    "index": "24",
+    "name": "Amitriptyline",
+    "info": "Amitriptyline is a tricyclic antidepressant that treats mood disorders such as depression and anxiety. It works by increasing serotonin and norepinephrine levels in the brain, alleviating symptoms and improving mental well-being. It can also help manage chronic pain conditions.",
+    "image": "https://c8.alamy.com/comp/CRE6HN/amitriptyline-tablets-box-packet-packaging-stock-photo-for-licensing-CRE6HN.jpg"
+  },
+  {
+    "index": "25",
+    "name": "Domperidone",
+    "info": "Domperidone is a medication that relieves gastrointestinal issues by promoting normal stomach and intestine movement. It is prescribed for conditions like nausea, vomiting, and indigestion, helping regulate digestion and alleviate related symptoms.",
+    "image": "https://c8.alamy.com/comp/FP2857/box-of-30-10mg-domperidone-tablets-FP2857.jpg"
+  },
+  {
+    "index": "26",
+    "name": "Chloroquine",
+    "info": "Chloroquine is an antimalarial drug and immunosuppressive agent. It's used to prevent and treat malaria caused by Plasmodium parasites. In some cases, it's also considered for the treatment of autoimmune conditions like rheumatoid arthritis and lupus.",
+    "image": "https://www.shutterstock.com/shutterstock/photos/1680633361/display_1500/stock-photo-hydroxychloroquine-chloroquine-pills-generic-for-plaquenil-on-split-black-white-background-1680633361.jpg"
+  }
 ]

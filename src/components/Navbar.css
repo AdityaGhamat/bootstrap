@@ -5,3 +5,34 @@
   padding-top: 10px;
   padding-left: 2px;
 }
+.location {
+  cursor: pointer;
+}
+/* .card {
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  margin: 20px auto;
+  max-width: 400px;
+  overflow: hidden;
+  transition: box-shadow 0.3s ease-in-out;
+}
+.card:hover {
+  box-shadow: 0 8px 12px rgba(0, 0, 0, 0.2);
+}
+
+.card-image {
+  display: block;
+  height: auto;
+  max-width: 100%;
+  width: 100%;
+}
+
+.card-content {
+  padding: 20px;
+}
+.card-title {
+  color: #333;
+  font-size: 24px;
+  margin-bottom: 10px;
+} */

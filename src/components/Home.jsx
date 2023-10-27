@@ -1,5 +1,9 @@
-const Home = () => {
-  return <div>Home</div>;
-};
+import NavScrollExample from "./NavScrollExample";
 
-export default Home;
+export default function Home() {
+  return (
+    <>
+      <NavScrollExample></NavScrollExample>
+    </>
+  );
+}

@@ -9,10 +9,12 @@ import data from "./medicines.json";
 import "./Navbar.css";
 import { useAuth0 } from "@auth0/auth0-react";
 import { Link } from "react-router-dom";
+import Card from "react-bootstrap/Card";
 
 function NavScrollExample() {
   const [value, setValue] = useState("");
   const { loginWithRedirect, isAuthenticated, logout, user } = useAuth0();
+  const [location, setLocation] = useState("Location");
 
   const onChange = (event) => {
     setValue(event.target.value);
@@ -20,8 +22,12 @@ function NavScrollExample() {
 
   const onSearch = (searchTerm) => {
     setValue(searchTerm);
-    console.log("search", searchTerm);
+    console.log(searchTerm);
   };
+  const showLocation = () => {
+    setLocation("Nerul, 400706");
+  };
+
   return (
     <>
       <Navbar expand="lg" className="bg-body-tertiary">
@@ -43,8 +49,12 @@ function NavScrollExample() {
                 About Us
               </Nav.Link>
               <NavDropdown title="Get On" id="navbarScrollingDropdown">
-                <NavDropdown.Item href="#action3">Customer-</NavDropdown.Item>
-                <NavDropdown.Item href="#action4">Seller</NavDropdown.Item>
+                <NavDropdown.Item href="#action3">
+                  <li className="location" onClick={showLocation}>
+                    {location}
+                  </li>
+                </NavDropdown.Item>
+                <NavDropdown.Item href="./maps2.html">Map</NavDropdown.Item>
               </NavDropdown>
               <Nav.Link>
                 <li>
@@ -115,6 +125,30 @@ function NavScrollExample() {
               {item.name}
             </div>
           ))}
+      </div>
+      <div className="row text-center display:flex gap-3 mt-3 overflow-hidden">
+        {data
+          .filter((val) => {
+            if (value == "") {
+              return val;
+            } else if (val.name.toLowerCase().includes(value.toLowerCase())) {
+              return val;
+            }
+          })
+          .map((val) => {
+            return (
+              <Card style={{ width: "18rem" }} key={val.index}>
+                <Card.Img variant="top" src={val.image} />
+                <Card.Body>
+                  <Card.Title>{val.name}</Card.Title>
+                  <Card.Text>{val.info}</Card.Text>
+                  <Button href="" variant="primary">
+                    Go somewhere
+                  </Button>
+                </Card.Body>
+              </Card>
+            );
+          })}
       </div>
     </>
   );
